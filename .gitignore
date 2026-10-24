@@ -12,3 +12,4 @@ wheels/
 # personal notes and logs, not part of the public repo
 HANDOFF.md
 runs/*.log
+data/
